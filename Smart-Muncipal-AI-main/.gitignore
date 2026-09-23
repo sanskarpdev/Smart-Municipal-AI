@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment files
+.env
+.env.*
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+dist/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# YOLO training outputs
+runs/*
+
+# Keep trained model required by application
+!runs/detect/
+!runs/detect/train-5/
+!runs/detect/train-5/weights/
+!runs/detect/train-5/weights/best.pt
+
+# Datasets
+ai-services/dataset/
+ai-services/final_dataset/
+ai-services/test_images/
+damaged_lights_dataset/
+drainage_dataset/
+garbage_dataset/
+streetlight_dataset/
