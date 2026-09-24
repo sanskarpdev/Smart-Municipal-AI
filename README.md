@@ -37,3 +37,77 @@ Trained model weights and YOLO experiment results are maintained separately in:
 ```text
 weights/
 runs/detect/
+```
+
+---
+
+## 🖥️ Tech Stack
+
+### 🤖 AI / Machine Learning
+
+* **Python**
+* **YOLO** — Object Detection
+* **Computer Vision**
+* **Machine Learning**
+
+### 🌐 Frontend
+
+* **Next.js**
+* **TypeScript**
+* **JavaScript**
+* **CSS**
+
+### 🔌 Backend & API
+
+* **Python**
+* **API Integration**
+* **AI Service Layer**
+
+### 📊 Data & Model Training
+
+* **Image Datasets**
+* **Data Preprocessing**
+* **Model Training & Validation**
+* **YOLO Model Weights**
+
+### 🛠️ Development Tools
+
+* **Git & GitHub**
+* **npm**
+* **ESLint**
+
+---
+
+## 📂 Project Structure
+
+```text
+Smart-Municipal-AI/
+│
+├── ai-services/                 # AI/ML services and model pipeline
+│   ├── dataset/                 # AI service datasets
+│   ├── final_dataset/           # Processed/final datasets
+│   ├── test_images/             # Images for testing
+│   ├── main.py                  # Main AI service
+│   ├── prepare_drainage.py      # Drainage dataset preparation
+│   ├── prepare_garbage.py       # Garbage dataset preparation
+│   ├── prepare_streetlights.py   # Streetlight dataset preparation
+│   └── requirements.txt          # Python dependencies
+│
+├── frontend/                    # Web application
+│   ├── app/                     # Application pages & components
+│   ├── public/                  # Public/static assets
+│   ├── package.json             # Frontend dependencies
+│   ├── next.config.ts           # Next.js configuration
+│   ├── tsconfig.json            # TypeScript configuration
+│   └── ...
+│
+├── damaged_lights_dataset/      # Damaged lights image dataset
+├── drainage_dataset/            # Drainage image dataset
+├── garbage_dataset/             # Garbage image dataset
+├── streetlight_dataset/         # Streetlight image dataset
+│
+├── runs/                        # YOLO training & prediction results
+│   └── detect/
+│       ├── train/
+│       ├
+```
