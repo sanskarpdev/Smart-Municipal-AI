@@ -111,3 +111,35 @@ Smart-Municipal-AI/
 │       ├── train/
 │       ├
 ```
+
+---
+
+## 🏆 Buildathon Achievement
+
+Our team participated in **Buildathon**, an **inter-college hackathon** conducted at our college campus, where we developed **Smart Municipal AI** as a team of four.
+
+🥇 **Achievement: Consolation Prize — 4th Position**
+
+The project was developed through collaborative efforts in **AI/ML model development, frontend development, API integration, backend support, project coordination, and presentation**.
+
+> 🚀 **Built together. Presented together. Achieved together.**
+
+---
+
+## 👥 Team & Contributions
+
+| Team Member         | Role & Contribution                                         |
+| ------------------- | ----------------------------------------------------------- |
+| **Sanskar Patil**   | 💡 Idea Presentation & ML Model Development                 |
+| **Sumit Patil**     | 🤖 ML Model Development                                     |
+| **Sarthak Rangdal** | 🖥️ Frontend Development, API Integration & Backend Support |
+| **Samarth**         | 🧠 ML Model Building & Training                             |
+
+### 🤝 Team Collaboration
+
+All four team members contributed to **project coordination, development, integration, testing, and overall problem-solving** throughout the Buildathon.
+
+> **One team. One idea. One build. 🚀**
+
+---
+
