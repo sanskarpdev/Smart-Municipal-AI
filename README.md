@@ -143,3 +143,16 @@ All four team members contributed to **project coordination, development, integr
 
 ---
 
+## 🔮 Future Scope
+
+* 📍 **Location-Based Issue Mapping** — Map detected municipal issues to their exact locations.
+* 📸 **Real-Time Detection** — Extend the system to support real-time image and video analysis.
+* 📊 **Smart Municipal Dashboard** — Provide analytics and visual insights for detected issues.
+* 🗂️ **Automated Issue Reporting** — Generate and manage municipal complaints based on detected problems.
+* 🧠 **Improved Model Accuracy** — Train models with larger and more diverse datasets.
+* 🌐 **Scalable Deployment** — Integrate the solution with real-world smart-city and municipal systems.
+
+> 🚀 **From a hackathon prototype to a smarter, more connected municipal intelligence system.**
+
+---
+
