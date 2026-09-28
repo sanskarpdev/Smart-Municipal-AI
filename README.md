@@ -118,7 +118,7 @@ Smart-Municipal-AI/
 
 Our team participated in **Buildathon**, an **inter-college hackathon** conducted at our college campus, where we developed **Smart Municipal AI** as a team of four.
 
-🥇 **Achievement: Consolation Prize — 4th Position**
+🏆🏆 **Achievement: Consolation Prize — 4th Position** 🏆🏆
 
 The project was developed through collaborative efforts in **AI/ML model development, frontend development, API integration, backend support, project coordination, and presentation**.
 
@@ -156,3 +156,13 @@ All four team members contributed to **project coordination, development, integr
 
 ---
 
+## 🔮 Future Scope
+
+* 📍 **Location-Based Issue Mapping** — Map detected municipal issues to their exact locations.
+* 📸 **Real-Time Detection** — Extend the system to support real-time image and video analysis.
+* 📊 **Smart Municipal Dashboard** — Provide analytics and visual insights for detected issues.
+* 🗂️ **Automated Issue Reporting** — Generate and manage municipal complaints based on detected problems.
+* 🧠 **Improved Model Accuracy** — Train models with larger and more diverse datasets.
+* 🌐 **Scalable Deployment** — Integrate the solution with real-world smart-city and municipal systems.
+
+> 🚀 **From a hackathon prototype to a smarter, more connected municipal intelligence system.**
