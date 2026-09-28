@@ -166,3 +166,15 @@ All four team members contributed to **project coordination, development, integr
 * 🌐 **Scalable Deployment** — Integrate the solution with real-world smart-city and municipal systems.
 
 > 🚀 **From a hackathon prototype to a smarter, more connected municipal intelligence system.**
+
+---
+
+## 🤝 Built With Teamwork
+
+This project was built during **Buildathon** through the combined efforts of our entire team.
+
+From **ideation and presentation** to **ML model development, frontend, API integration, testing, and coordination**, every team member played an important role in bringing the project together.
+
+> 💙 **Different skills. One team. One vision. One project. 🚀**
+
+**Built with teamwork, collaboration, and a lot of late-night debugging. ☕💻**
